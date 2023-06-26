@@ -1,2 +1,2 @@
-This is bar.txt version 1.
+This is bar.txt version 1.1.
 
