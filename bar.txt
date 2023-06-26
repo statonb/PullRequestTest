@@ -1,0 +1,2 @@
+This is bar.txt version 1.
+
