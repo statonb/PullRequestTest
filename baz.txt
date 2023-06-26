@@ -1,2 +1,2 @@
-This is baz.txt version 1.
+This is baz.txt version 1.1.
 
